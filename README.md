@@ -90,13 +90,42 @@ Validation Tests + Documentation
 
 ```text
 glucose-trend-alert-system/
+│
 ├── README.md
 ├── requirements.txt
+│
 ├── src/
+│   └── glucose_alert_system/
+│       ├── __init__.py
+│       ├── data_generator.py
+│       ├── risk_classifier.py
+│       ├── trend_detector.py
+│       ├── alert_engine.py
+│       ├── report_exporter.py
+│       └── pipeline.py
+│
 ├── tests/
+│   ├── test_data_generator.py
+│   ├── test_risk_classifier.py
+│   ├── test_trend_detector.py
+│   ├── test_alert_engine.py
+│   └── test_pipeline.py
+│
 ├── docs/
+│   ├── requirements.md
+│   ├── software_design_document.md
+│   ├── risk_management.md
+│   ├── validation_plan.md
+│   ├── traceability_matrix.md
+│   └── regulatory_disclaimer.md
+│
 ├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── reports/
+│
 └── dashboard/
+    └── app.py
 ```
 
 ---
