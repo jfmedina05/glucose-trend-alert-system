@@ -6,7 +6,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from src.glucose_alert_system.risk_classifier import (
+from glucose_alert_system.risk_classifier import (
     classify_dataframe,
     summarize_risk_zones,
 )

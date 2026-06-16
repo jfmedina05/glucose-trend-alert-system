@@ -5,7 +5,7 @@ Unit tests for glucose risk zone classification.
 import pandas as pd
 import pytest
 
-from src.glucose_alert_system.risk_classifier import (
+from glucose_alert_system.risk_classifier import (
     GlucoseThresholds,
     classify_dataframe,
     classify_glucose_value,
