@@ -385,21 +385,9 @@ Concepts demonstrated:
 
 ## Dashboard Preview
 
-Add your dashboard screenshots here after running the app.
-
-```text
-assets/dashboard_preview.png
-assets/glucose_trend_chart.png
-assets/alert_log_preview.png
-```
-
-Example Markdown after adding screenshots:
-
-```markdown
 ![Dashboard Preview](assets/dashboard_preview.png)
 ![Glucose Trend Chart](assets/glucose_trend_chart.png)
 ![Alert Log Preview](assets/alert_log_preview.png)
-```
 
 ---
 
