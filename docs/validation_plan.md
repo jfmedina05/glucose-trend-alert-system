@@ -163,3 +163,15 @@ Run all tests:
 
 ```bash
 python -m pytest
+
+python examples/run_pipeline.py
+
+python -m streamlit run dashboard/app.py
+
+```
+
+## Validation Limitation
+This project validates software behavior against synthetic requirements only.
+
+It does not validate clinical safety, clinical effectiveness, real CGM accuracy, patient outcomes, or medical-device performance.
+
