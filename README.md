@@ -1,5 +1,7 @@
 # Glucose Trend Alert System
 
+![Tests](https://github.com/jfmedina05/glucose-trend-alert-system/actions/workflows/tests.yml/badge.svg)
+
 A synthetic continuous glucose monitor analytics project that detects glucose trends, classifies simulated glucose risk zones, and generates user-centered alerts through a Streamlit dashboard.
 
 This project demonstrates software engineering, healthcare data analysis, medical-device software awareness, validation testing, and healthcare IT pipeline design.
