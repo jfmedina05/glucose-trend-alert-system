@@ -158,7 +158,7 @@ def test_pipeline_can_generate_alerts_for_falling_low_data():
             ),
             "patient_id": ["SYNTH-001"] * 5,
             "scenario": ["falling_low"] * 5,
-            "glucose_mg_dl": [75, 68, 66, 64, 62],
+            "glucose_mg_dl": [82, 68, 60, 52, 44],
             "interval_minutes": [5] * 5,
             "data_source": ["synthetic_test"] * 5,
         }
