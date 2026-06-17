@@ -1,0 +1,4 @@
+alert_type,alert_priority,count
+high_and_rising,warning,1
+low_glucose,warning,9
+high_glucose,caution,37
