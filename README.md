@@ -1,6 +1,18 @@
 # Glucose Trend Alert System
 
-![Tests](https://github.com/jfmedina05/glucose-trend-alert-system/actions/workflows/tests.yml/badge.svg)
+<p align="center">
+  <a href="https://github.com/jfmedina05/glucose-trend-alert-system/actions/workflows/tests.yml">
+    <img alt="Tests" src="https://github.com/jfmedina05/glucose-trend-alert-system/actions/workflows/tests.yml/badge.svg">
+  </a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white">
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white">
+  <img alt="Mermaid" src="https://img.shields.io/badge/Mermaid-FF3670?logo=mermaid&logoColor=white">
+</p>
 
 A synthetic continuous glucose monitor analytics project that detects glucose trends, classifies simulated glucose risk zones, and generates user-centered alerts through a Streamlit dashboard.
 
